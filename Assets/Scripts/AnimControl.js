@@ -11,6 +11,8 @@ var currentState: AnimatorStateInfo;
 var locoState = Animator.StringToHash("Base Layer.Locomotion");
 var jumpState = Animator.StringToHash("Base Layer.JumpLeap");
 var doublejumpState = Animator.StringToHash("Base Layer.DoubleJump");
+var eggRunState = Animator.StringToHash("Base Layer.EggLocomotion");
+
 var IsDoubleJump = false;
 var HasDoubleJumped = false;
 
@@ -87,11 +89,12 @@ function FixedUpdate(){
     //Left Cmd
     if(Input.GetButtonDown("Fire3")){
         anim.SetBool("Toss", true);
+        anim.SetBool("Catch", false);
     } else anim.SetBool("Toss", false);
 
     //Left Cmd
     if(Input.GetButtonDown("Catch")){
         anim.SetBool("Catch", true);
-    } else anim.SetBool("Catch", false);
+    }
 
 }

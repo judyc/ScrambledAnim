@@ -50,7 +50,7 @@ ModelImporter:
     400042: TargetCharacter
     400044: //RootNode
     4300000: Skin
-    7400000: Take 001
+    7400000: Tossing
     9500000: //RootNode
     13700000: Skin
   materials:
@@ -69,7 +69,7 @@ ModelImporter:
     extraExposedTransformPaths: []
     clipAnimations:
     - serializedVersion: 16
-      name: Take 001
+      name: Tossing
       takeName: Take 001
       firstFrame: 1283
       lastFrame: 1303
