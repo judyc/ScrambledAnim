@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: b71e0782f5afb455a9091a6e0402e42c
+guid: 942d72b21810346ac8ef9ef024d3c84c
 ModelImporter:
   serializedVersion: 15
   fileIDToRecycleName:
@@ -7,93 +7,98 @@ ModelImporter:
     100002: //RootNode
     100004: eyeL
     100006: eyeL1
-    100008: jnt_Chest
-    100010: jnt_Head
-    100012: jnt_HeadEnd
-    100014: jnt_Hip
-    100016: jnt_L_Ankle
-    100018: jnt_L_Elbow
-    100020: jnt_L_Hip
-    100022: jnt_L_Index1
-    100024: jnt_L_Index2
-    100026: jnt_L_Index3
-    100028: jnt_L_Knee
-    100030: jnt_L_Pinky1
-    100032: jnt_L_Pinky2
-    100034: jnt_L_Pinky3
-    100036: jnt_L_Shoulder
-    100038: jnt_L_Thumb1
-    100040: jnt_L_Thumb2
-    100042: jnt_L_Thumb3
-    100044: jnt_L_Toe
-    100046: jnt_L_Wrist
-    100048: jnt_Neck
-    100050: jnt_R_Ankle
-    100052: jnt_R_Elbow
-    100054: jnt_R_Hip
-    100056: jnt_R_Index1
-    100058: jnt_R_Index2
-    100060: jnt_R_Index3
-    100062: jnt_R_Knee
-    100064: jnt_R_Pinky1
-    100066: jnt_R_Pinky2
-    100068: jnt_R_Pinky3
-    100070: jnt_R_Shoulder
-    100072: jnt_R_Thumb1
-    100074: jnt_R_Thumb2
-    100076: jnt_R_Thumb3
-    100078: jnt_R_Toe
-    100080: jnt_R_Wrist
-    100082: jnt_Root
-    100084: jnt_Spine
-    100086: left
-    400000: //RootNode
-    400002: Dan
+    100008: Fry
+    100010: jnt_Chest
+    100012: jnt_Head
+    100014: jnt_HeadEnd
+    100016: jnt_Hip
+    100018: jnt_L_Ankle
+    100020: jnt_L_Elbow
+    100022: jnt_L_Hip
+    100024: jnt_L_Index1
+    100026: jnt_L_Index2
+    100028: jnt_L_Index3
+    100030: jnt_L_Knee
+    100032: jnt_L_Pinky1
+    100034: jnt_L_Pinky2
+    100036: jnt_L_Pinky3
+    100038: jnt_L_Shoulder
+    100040: jnt_L_Thumb1
+    100042: jnt_L_Thumb2
+    100044: jnt_L_Thumb3
+    100046: jnt_L_Toe
+    100048: jnt_L_Wrist
+    100050: jnt_Neck
+    100052: jnt_R_Ankle
+    100054: jnt_R_Elbow
+    100056: jnt_R_Hip
+    100058: jnt_R_Index1
+    100060: jnt_R_Index2
+    100062: jnt_R_Index3
+    100064: jnt_R_Knee
+    100066: jnt_R_Pinky1
+    100068: jnt_R_Pinky2
+    100070: jnt_R_Pinky3
+    100072: jnt_R_Shoulder
+    100074: jnt_R_Thumb1
+    100076: jnt_R_Thumb2
+    100078: jnt_R_Thumb3
+    100080: jnt_R_Toe
+    100082: jnt_R_Wrist
+    100084: jnt_Root
+    100086: jnt_Spine
+    100088: left
+    400000: Dan
+    400002: //RootNode
     400004: eyeL
     400006: eyeL1
-    400008: jnt_Chest
-    400010: jnt_Head
-    400012: jnt_HeadEnd
-    400014: jnt_Hip
-    400016: jnt_L_Ankle
-    400018: jnt_L_Elbow
-    400020: jnt_L_Hip
-    400022: jnt_L_Index1
-    400024: jnt_L_Index2
-    400026: jnt_L_Index3
-    400028: jnt_L_Knee
-    400030: jnt_L_Pinky1
-    400032: jnt_L_Pinky2
-    400034: jnt_L_Pinky3
-    400036: jnt_L_Shoulder
-    400038: jnt_L_Thumb1
-    400040: jnt_L_Thumb2
-    400042: jnt_L_Thumb3
-    400044: jnt_L_Toe
-    400046: jnt_L_Wrist
-    400048: jnt_Neck
-    400050: jnt_R_Ankle
-    400052: jnt_R_Elbow
-    400054: jnt_R_Hip
-    400056: jnt_R_Index1
-    400058: jnt_R_Index2
-    400060: jnt_R_Index3
-    400062: jnt_R_Knee
-    400064: jnt_R_Pinky1
-    400066: jnt_R_Pinky2
-    400068: jnt_R_Pinky3
-    400070: jnt_R_Shoulder
-    400072: jnt_R_Thumb1
-    400074: jnt_R_Thumb2
-    400076: jnt_R_Thumb3
-    400078: jnt_R_Toe
-    400080: jnt_R_Wrist
-    400082: jnt_Root
-    400084: jnt_Spine
-    400086: left
+    400008: Fry
+    400010: jnt_Chest
+    400012: jnt_Head
+    400014: jnt_HeadEnd
+    400016: jnt_Hip
+    400018: jnt_L_Ankle
+    400020: jnt_L_Elbow
+    400022: jnt_L_Hip
+    400024: jnt_L_Index1
+    400026: jnt_L_Index2
+    400028: jnt_L_Index3
+    400030: jnt_L_Knee
+    400032: jnt_L_Pinky1
+    400034: jnt_L_Pinky2
+    400036: jnt_L_Pinky3
+    400038: jnt_L_Shoulder
+    400040: jnt_L_Thumb1
+    400042: jnt_L_Thumb2
+    400044: jnt_L_Thumb3
+    400046: jnt_L_Toe
+    400048: jnt_L_Wrist
+    400050: jnt_Neck
+    400052: jnt_R_Ankle
+    400054: jnt_R_Elbow
+    400056: jnt_R_Hip
+    400058: jnt_R_Index1
+    400060: jnt_R_Index2
+    400062: jnt_R_Index3
+    400064: jnt_R_Knee
+    400066: jnt_R_Pinky1
+    400068: jnt_R_Pinky2
+    400070: jnt_R_Pinky3
+    400072: jnt_R_Shoulder
+    400074: jnt_R_Thumb1
+    400076: jnt_R_Thumb2
+    400078: jnt_R_Thumb3
+    400080: jnt_R_Toe
+    400082: jnt_R_Wrist
+    400084: jnt_Root
+    400086: jnt_Spine
+    400088: left
+    2300000: Fry
+    3300000: Fry
     4300000: Dan
     4300002: eyeL
     4300004: eyeL1
+    4300006: Fry
     9500000: //RootNode
     13700000: Dan
     13700002: eyeL
@@ -135,7 +140,7 @@ ModelImporter:
     normalImportMode: 0
     tangentImportMode: 1
   importAnimation: 1
-  copyAvatar: 0
+  copyAvatar: 1
   humanDescription:
     human:
     - boneName: jnt_Root
@@ -233,15 +238,15 @@ ModelImporter:
         max: {x: 0, y: 0, z: 0}
         value: {x: 0, y: 0, z: 0}
         length: 0
-        modified: 1
+        modified: 0
     - boneName: jnt_R_Shoulder
       humanName: RightUpperArm
       limit:
-        min: {x: 0, y: 0, z: -30}
-        max: {x: 0, y: 0, z: 100}
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
         value: {x: 0, y: 0, z: 0}
         length: 0
-        modified: 1
+        modified: 0
     - boneName: jnt_L_Elbow
       humanName: LeftLowerArm
       limit:
@@ -663,6 +668,7 @@ ModelImporter:
     legStretch: .0500000007
     feetSpacing: 0
     rootMotionBoneName: 
-  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: b71e0782f5afb455a9091a6e0402e42c,
+    type: 3}
   animationType: 3
   userData: 
