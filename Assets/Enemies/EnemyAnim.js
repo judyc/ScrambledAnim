@@ -16,13 +16,14 @@ function FixedUpdate(){
     anim = GetComponent(Animator);
     currentState = anim.GetCurrentAnimatorStateInfo(0);
 
-    if(Input.GetButtonDown("beeAttack")){
-        anim.SetBool("beeAttack", true);
-    } else anim.SetBool("beeAttack", false);
-
     if(Input.GetButtonDown("Fire1")){
-        anim.SetBool("dragonAttack", true);
-    } else anim.SetBool("dragonAttack", false);
+        anim.SetBool("beetleAttack", true);
+    } else anim.SetBool("beetleAttack", false);
+
+
+    if(Input.GetButtonDown("Fire2")){
+        anim.SetBool("death", true);
+    } else anim.SetBool("death", false);
 }
 
 function triggerAnim(){

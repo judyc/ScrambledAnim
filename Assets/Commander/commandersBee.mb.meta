@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: a6c71df15b20041f7ae1ce31bfc93f17
+guid: 160cf8662fbb847c085700cb5f8cd30f
 ModelImporter:
   serializedVersion: 15
   fileIDToRecycleName:
-    100000: //RootNode
-    100002: characterMesh
+    100000: characterMesh
+    100002: //RootNode
     100004: globalControl
     100006: HeadControl
     100008: ikHandle_L_Atenna
@@ -55,8 +55,8 @@ ModelImporter:
     100098: StingerControl01
     100100: StingerControl02
     100102: StingerControl03
-    400000: //RootNode
-    400002: characterMesh
+    400000: characterMesh
+    400002: //RootNode
     400004: globalControl
     400006: HeadControl
     400008: ikHandle_L_Atenna
@@ -109,7 +109,7 @@ ModelImporter:
     400102: StingerControl03
     4300000: characterMesh
     7400000: Idle
-    7400002: beeAttack
+    7400002: Attack
     9500000: //RootNode
     13700000: characterMesh
   materials:
@@ -258,10 +258,10 @@ ModelImporter:
       maskType: 0
       maskSource: {instanceID: 0}
     - serializedVersion: 16
-      name: beeAttack
+      name: Attack
       takeName: Take 001
       firstFrame: 11
-      lastFrame: 30
+      lastFrame: 21
       wrapMode: 0
       orientationOffsetY: 0
       level: 0
