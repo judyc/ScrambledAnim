@@ -1,13 +1,13 @@
 fileFormatVersion: 2
-guid: 942d72b21810346ac8ef9ef024d3c84c
+guid: c373ca5d31b8a470abe9104960875153
 ModelImporter:
   serializedVersion: 15
   fileIDToRecycleName:
-    100000: Dan
-    100002: //RootNode
-    100004: eyeL
-    100006: eyeL1
-    100008: Fry
+    100000: Diane
+    100002: dianeHat
+    100004: //RootNode
+    100006: eyeL
+    100008: eyeR
     100010: jnt_Chest
     100012: jnt_Head
     100014: jnt_HeadEnd
@@ -47,17 +47,12 @@ ModelImporter:
     100082: jnt_R_Wrist
     100084: jnt_Root
     100086: jnt_Spine
-    100088: left
-    100090: group
-    100092: runnerDan:polySurface19
-    100094: runnerDan:polySurface20
-    100096: runnerDan:transform1
-    100098: runnerDan:transform2
-    400000: Dan
-    400002: //RootNode
-    400004: eyeL
-    400006: eyeL1
-    400008: Fry
+    100088: Shovel
+    400000: Diane
+    400002: dianeHat
+    400004: //RootNode
+    400006: eyeL
+    400008: eyeR
     400010: jnt_Chest
     400012: jnt_Head
     400014: jnt_HeadEnd
@@ -97,22 +92,20 @@ ModelImporter:
     400082: jnt_R_Wrist
     400084: jnt_Root
     400086: jnt_Spine
-    400088: left
-    400090: group
-    400092: runnerDan:polySurface19
-    400094: runnerDan:polySurface20
-    400096: runnerDan:transform1
-    400098: runnerDan:transform2
-    2300000: Fry
-    3300000: Fry
-    4300000: Dan
-    4300002: eyeL
-    4300004: eyeL1
-    4300006: Fry
+    400088: Shovel
+    2300000: dianeHat
+    2300002: Shovel
+    3300000: dianeHat
+    3300002: Shovel
+    4300000: dianeHat
+    4300002: Shovel
+    4300004: Diane
+    4300006: eyeL
+    4300008: eyeR
     9500000: //RootNode
-    13700000: Dan
+    13700000: Diane
     13700002: eyeL
-    13700004: eyeL1
+    13700004: eyeR
   materials:
     importMaterials: 1
     materialName: 0
@@ -248,15 +241,15 @@ ModelImporter:
         max: {x: 0, y: 0, z: 0}
         value: {x: 0, y: 0, z: 0}
         length: 0
-        modified: 0
+        modified: 1
     - boneName: jnt_R_Shoulder
       humanName: RightUpperArm
       limit:
-        min: {x: 0, y: 0, z: 0}
-        max: {x: 0, y: 0, z: 0}
+        min: {x: 0, y: 0, z: -30}
+        max: {x: 0, y: 0, z: 100}
         value: {x: 0, y: 0, z: 0}
         length: 0
-        modified: 0
+        modified: 1
     - boneName: jnt_L_Elbow
       humanName: LeftLowerArm
       limit:

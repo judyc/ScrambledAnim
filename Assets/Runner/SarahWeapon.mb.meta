@@ -1,118 +1,111 @@
 fileFormatVersion: 2
-guid: 942d72b21810346ac8ef9ef024d3c84c
+guid: 08b56b2d887f74cf4b1848778e10dbf6
 ModelImporter:
   serializedVersion: 15
   fileIDToRecycleName:
-    100000: Dan
-    100002: //RootNode
-    100004: eyeL
-    100006: eyeL1
-    100008: Fry
-    100010: jnt_Chest
-    100012: jnt_Head
-    100014: jnt_HeadEnd
-    100016: jnt_Hip
-    100018: jnt_L_Ankle
-    100020: jnt_L_Elbow
-    100022: jnt_L_Hip
-    100024: jnt_L_Index1
-    100026: jnt_L_Index2
-    100028: jnt_L_Index3
-    100030: jnt_L_Knee
-    100032: jnt_L_Pinky1
-    100034: jnt_L_Pinky2
-    100036: jnt_L_Pinky3
-    100038: jnt_L_Shoulder
-    100040: jnt_L_Thumb1
-    100042: jnt_L_Thumb2
-    100044: jnt_L_Thumb3
-    100046: jnt_L_Toe
-    100048: jnt_L_Wrist
-    100050: jnt_Neck
-    100052: jnt_R_Ankle
-    100054: jnt_R_Elbow
-    100056: jnt_R_Hip
-    100058: jnt_R_Index1
-    100060: jnt_R_Index2
-    100062: jnt_R_Index3
-    100064: jnt_R_Knee
-    100066: jnt_R_Pinky1
-    100068: jnt_R_Pinky2
-    100070: jnt_R_Pinky3
-    100072: jnt_R_Shoulder
-    100074: jnt_R_Thumb1
-    100076: jnt_R_Thumb2
-    100078: jnt_R_Thumb3
-    100080: jnt_R_Toe
-    100082: jnt_R_Wrist
-    100084: jnt_Root
-    100086: jnt_Spine
-    100088: left
-    100090: group
-    100092: runnerDan:polySurface19
-    100094: runnerDan:polySurface20
-    100096: runnerDan:transform1
-    100098: runnerDan:transform2
-    400000: Dan
-    400002: //RootNode
-    400004: eyeL
-    400006: eyeL1
-    400008: Fry
-    400010: jnt_Chest
-    400012: jnt_Head
-    400014: jnt_HeadEnd
-    400016: jnt_Hip
-    400018: jnt_L_Ankle
-    400020: jnt_L_Elbow
-    400022: jnt_L_Hip
-    400024: jnt_L_Index1
-    400026: jnt_L_Index2
-    400028: jnt_L_Index3
-    400030: jnt_L_Knee
-    400032: jnt_L_Pinky1
-    400034: jnt_L_Pinky2
-    400036: jnt_L_Pinky3
-    400038: jnt_L_Shoulder
-    400040: jnt_L_Thumb1
-    400042: jnt_L_Thumb2
-    400044: jnt_L_Thumb3
-    400046: jnt_L_Toe
-    400048: jnt_L_Wrist
-    400050: jnt_Neck
-    400052: jnt_R_Ankle
-    400054: jnt_R_Elbow
-    400056: jnt_R_Hip
-    400058: jnt_R_Index1
-    400060: jnt_R_Index2
-    400062: jnt_R_Index3
-    400064: jnt_R_Knee
-    400066: jnt_R_Pinky1
-    400068: jnt_R_Pinky2
-    400070: jnt_R_Pinky3
-    400072: jnt_R_Shoulder
-    400074: jnt_R_Thumb1
-    400076: jnt_R_Thumb2
-    400078: jnt_R_Thumb3
-    400080: jnt_R_Toe
-    400082: jnt_R_Wrist
-    400084: jnt_Root
-    400086: jnt_Spine
-    400088: left
-    400090: group
-    400092: runnerDan:polySurface19
-    400094: runnerDan:polySurface20
-    400096: runnerDan:transform1
-    400098: runnerDan:transform2
-    2300000: Fry
-    3300000: Fry
-    4300000: Dan
-    4300002: eyeL
-    4300004: eyeL1
-    4300006: Fry
+    100000: eyeL
+    100002: eyeR
+    100004: jnt_Chest
+    100006: jnt_Head
+    100008: jnt_HeadEnd
+    100010: jnt_Hip
+    100012: jnt_L_Ankle
+    100014: jnt_L_Elbow
+    100016: jnt_L_Hip
+    100018: jnt_L_Index1
+    100020: jnt_L_Index2
+    100022: jnt_L_Index3
+    100024: jnt_L_Knee
+    100026: jnt_L_Pinky1
+    100028: jnt_L_Pinky2
+    100030: jnt_L_Pinky3
+    100032: jnt_L_Shoulder
+    100034: jnt_L_Thumb1
+    100036: jnt_L_Thumb2
+    100038: jnt_L_Thumb3
+    100040: jnt_L_Toe
+    100042: jnt_L_Wrist
+    100044: jnt_Neck
+    100046: jnt_R_Ankle
+    100048: jnt_R_Elbow
+    100050: jnt_R_Hip
+    100052: jnt_R_Index1
+    100054: jnt_R_Index2
+    100056: jnt_R_Index3
+    100058: jnt_R_Knee
+    100060: jnt_R_Pinky1
+    100062: jnt_R_Pinky2
+    100064: jnt_R_Pinky3
+    100066: jnt_R_Shoulder
+    100068: jnt_R_Thumb1
+    100070: jnt_R_Thumb2
+    100072: jnt_R_Thumb3
+    100074: jnt_R_Toe
+    100076: jnt_R_Wrist
+    100078: jnt_Root
+    100080: jnt_Spine
+    100082: SarahMesh
+    100084: SarahWeapon
+    100086: //RootNode
+    100088: Tube
+    400000: eyeL
+    400002: eyeR
+    400004: jnt_Chest
+    400006: jnt_Head
+    400008: jnt_HeadEnd
+    400010: jnt_Hip
+    400012: jnt_L_Ankle
+    400014: jnt_L_Elbow
+    400016: jnt_L_Hip
+    400018: jnt_L_Index1
+    400020: jnt_L_Index2
+    400022: jnt_L_Index3
+    400024: jnt_L_Knee
+    400026: jnt_L_Pinky1
+    400028: jnt_L_Pinky2
+    400030: jnt_L_Pinky3
+    400032: jnt_L_Shoulder
+    400034: jnt_L_Thumb1
+    400036: jnt_L_Thumb2
+    400038: jnt_L_Thumb3
+    400040: jnt_L_Toe
+    400042: jnt_L_Wrist
+    400044: jnt_Neck
+    400046: jnt_R_Ankle
+    400048: jnt_R_Elbow
+    400050: jnt_R_Hip
+    400052: jnt_R_Index1
+    400054: jnt_R_Index2
+    400056: jnt_R_Index3
+    400058: jnt_R_Knee
+    400060: jnt_R_Pinky1
+    400062: jnt_R_Pinky2
+    400064: jnt_R_Pinky3
+    400066: jnt_R_Shoulder
+    400068: jnt_R_Thumb1
+    400070: jnt_R_Thumb2
+    400072: jnt_R_Thumb3
+    400074: jnt_R_Toe
+    400076: jnt_R_Wrist
+    400078: jnt_Root
+    400080: jnt_Spine
+    400082: SarahMesh
+    400084: SarahWeapon
+    400086: //RootNode
+    400088: Tube
+    2300000: SarahWeapon
+    2300002: Tube
+    3300000: SarahWeapon
+    3300002: Tube
+    4300000: SarahWeapon
+    4300002: Tube
+    4300004: SarahMesh
+    4300006: eyeR
+    4300008: eyeL
     9500000: //RootNode
-    13700000: Dan
-    13700002: eyeL
-    13700004: eyeL1
+    13700000: eyeL
+    13700002: eyeR
+    13700004: SarahMesh
   materials:
     importMaterials: 1
     materialName: 0
@@ -244,19 +237,19 @@ ModelImporter:
     - boneName: jnt_L_Shoulder
       humanName: LeftUpperArm
       limit:
-        min: {x: 0, y: 0, z: 0}
-        max: {x: 0, y: 0, z: 0}
+        min: {x: 0, y: -100, z: 0}
+        max: {x: 0, y: 100, z: 80}
         value: {x: 0, y: 0, z: 0}
         length: 0
-        modified: 0
+        modified: 1
     - boneName: jnt_R_Shoulder
       humanName: RightUpperArm
       limit:
-        min: {x: 0, y: 0, z: 0}
-        max: {x: 0, y: 0, z: 0}
+        min: {x: 0, y: -100, z: 0}
+        max: {x: 0, y: 100, z: 100}
         value: {x: 0, y: 0, z: 0}
         length: 0
-        modified: 0
+        modified: 1
     - boneName: jnt_L_Elbow
       humanName: LeftLowerArm
       limit:

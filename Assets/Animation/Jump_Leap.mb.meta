@@ -89,6 +89,7 @@ ModelImporter:
     400082: TargetCharacter
     4300000: Skin
     7400000: JumpLeap
+    7400002: JumpLeap2
     9500000: //RootNode
     13700000: Skin
   materials:
@@ -214,6 +215,116 @@ ModelImporter:
         weight: 1
       - path: TargetCharacter/Hips/Spine/RightArm/RightForeArm/RightHand/RightFingerBase
         weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: JumpLeap2
+      takeName: Take 001
+      firstFrame: 412
+      lastFrame: 447
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Jutty:Hips
+        weight: 0
+      - path: Jutty:Hips/Jutty:LeftUpLeg
+        weight: 0
+      - path: Jutty:Hips/Jutty:LeftUpLeg/Jutty:LeftLeg
+        weight: 0
+      - path: Jutty:Hips/Jutty:LeftUpLeg/Jutty:LeftLeg/Jutty:LeftFoot
+        weight: 0
+      - path: Jutty:Hips/Jutty:LeftUpLeg/Jutty:LeftLeg/Jutty:LeftFoot/Jutty:LeftToeBase
+        weight: 0
+      - path: Jutty:Hips/Jutty:RightUpLeg
+        weight: 0
+      - path: Jutty:Hips/Jutty:RightUpLeg/Jutty:RightLeg
+        weight: 0
+      - path: Jutty:Hips/Jutty:RightUpLeg/Jutty:RightLeg/Jutty:RightFoot
+        weight: 0
+      - path: Jutty:Hips/Jutty:RightUpLeg/Jutty:RightLeg/Jutty:RightFoot/Jutty:RightToeBase
+        weight: 0
+      - path: Jutty:Hips/Jutty:Spine
+        weight: 0
+      - path: Jutty:Hips/Jutty:Spine/Jutty:Head
+        weight: 0
+      - path: Jutty:Hips/Jutty:Spine/Jutty:LeftShoulder
+        weight: 0
+      - path: Jutty:Hips/Jutty:Spine/Jutty:LeftShoulder/Jutty:LeftArm
+        weight: 0
+      - path: Jutty:Hips/Jutty:Spine/Jutty:LeftShoulder/Jutty:LeftArm/Jutty:LeftForeArm
+        weight: 0
+      - path: Jutty:Hips/Jutty:Spine/Jutty:LeftShoulder/Jutty:LeftArm/Jutty:LeftForeArm/Jutty:LeftHand
+        weight: 0
+      - path: Jutty:Hips/Jutty:Spine/Jutty:RightShoulder
+        weight: 0
+      - path: Jutty:Hips/Jutty:Spine/Jutty:RightShoulder/Jutty:RightArm
+        weight: 0
+      - path: Jutty:Hips/Jutty:Spine/Jutty:RightShoulder/Jutty:RightArm/Jutty:RightForeArm
+        weight: 0
+      - path: Jutty:Hips/Jutty:Spine/Jutty:RightShoulder/Jutty:RightArm/Jutty:RightForeArm/Jutty:RightHand
+        weight: 0
+      - path: Skin
+        weight: 0
+      - path: TargetCharacter
+        weight: 1
+      - path: TargetCharacter/Hips
+        weight: 1
+      - path: TargetCharacter/Hips/LeftUpLeg
+        weight: 1
+      - path: TargetCharacter/Hips/LeftUpLeg/LeftLeg
+        weight: 1
+      - path: TargetCharacter/Hips/LeftUpLeg/LeftLeg/LeftFoot
+        weight: 1
+      - path: TargetCharacter/Hips/LeftUpLeg/LeftLeg/LeftFoot/LeftToe
+        weight: 1
+      - path: TargetCharacter/Hips/RightUpLeg
+        weight: 1
+      - path: TargetCharacter/Hips/RightUpLeg/RightLeg
+        weight: 1
+      - path: TargetCharacter/Hips/RightUpLeg/RightLeg/RightFoot
+        weight: 1
+      - path: TargetCharacter/Hips/RightUpLeg/RightLeg/RightFoot/RightToe
+        weight: 1
+      - path: TargetCharacter/Hips/Spine
+        weight: 1
+      - path: TargetCharacter/Hips/Spine/LeftArm
+        weight: 1
+      - path: TargetCharacter/Hips/Spine/LeftArm/LeftForeArm
+        weight: 1
+      - path: TargetCharacter/Hips/Spine/LeftArm/LeftForeArm/LeftHand
+        weight: 1
+      - path: TargetCharacter/Hips/Spine/LeftArm/LeftForeArm/LeftHand/LeftFingerBase
+        weight: 0
+      - path: TargetCharacter/Hips/Spine/Neck
+        weight: 1
+      - path: TargetCharacter/Hips/Spine/Neck/Head
+        weight: 1
+      - path: TargetCharacter/Hips/Spine/RightArm
+        weight: 1
+      - path: TargetCharacter/Hips/Spine/RightArm/RightForeArm
+        weight: 1
+      - path: TargetCharacter/Hips/Spine/RightArm/RightForeArm/RightHand
+        weight: 1
+      - path: TargetCharacter/Hips/Spine/RightArm/RightForeArm/RightHand/RightFingerBase
+        weight: 0
       maskType: 0
       maskSource: {instanceID: 0}
     isReadable: 1
